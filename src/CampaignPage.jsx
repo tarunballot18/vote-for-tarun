@@ -9,13 +9,13 @@ const CampaignPage = () => {
 
             <div className='flex justify-between p-4'>
                 <img
-                    src="/src/assets/iitbhu_logo.jpg"
+                    src="/assets/iitbhu_logo.jpg"
                     alt="IIT Logo"
                     className="w-3/4 h-auto"
                 />
 
                 <img
-                    src="/src/assets/18_logo.png"
+                    src="/assets/18_logo.png"
                     alt="Ballot18"
                     className="w-1/5 h-auto"
                 />
@@ -33,7 +33,7 @@ const CampaignPage = () => {
                     </p>
                 </div>
                 <img
-                    src="./src/assets/tarun_kumar.png"
+                    src="/assets/tarun_kumar.png"
                     alt="Tarun Kumar"
                     className="w-1/2 h-auto rounded-lg p-4"
                 />
