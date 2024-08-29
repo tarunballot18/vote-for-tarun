@@ -9,14 +9,14 @@ const CampaignPage = () => {
 
             <div className='flex justify-between p-4'>
                 <img
-                    src="./src/assets/iitbhu_logo.jpg"
-                    alt="John Doe"
+                    src="/src/assets/iitbhu_logo.jpg"
+                    alt="IIT Logo"
                     className="w-3/4 h-auto"
                 />
 
                 <img
-                    src="./src/assets/18_logo.png"
-                    alt="John Doe"
+                    src="/src/assets/18_logo.png"
+                    alt="Ballot18"
                     className="w-1/5 h-auto"
                 />
             </div>
